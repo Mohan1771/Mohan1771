@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan S
 - 👀 I’m interested in new things
-- 🌱 I’m currently learning data science
+- 🌱 Aspiring Data Scietist
 - 📫 How to reach me mohans1771@gmail.com
 
 <!---
